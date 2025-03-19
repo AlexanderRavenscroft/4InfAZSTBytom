@@ -1,0 +1,9 @@
+SELECT * FROM pracownicy;
+
+SELECT * FROM pracownicy WHERE nazwisko="Król";
+
+SELECT COUNT(*) AS ilosc_pracownikow FROM pracownicy;
+
+INSERT INTO pracownicy (nazwisko, imie, pesel) 
+VALUES ('Rak', 'Monika', '00101843690');
+
