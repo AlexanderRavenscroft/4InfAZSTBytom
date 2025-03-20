@@ -70,7 +70,7 @@
         </div>
     </div>
     <footer>
-        <h5>Autor strony: Mateusz Kozdroń</h5>
+        <h5>Autor strony: </h5>
     </footer>
 </body>
 </html>
